@@ -8,10 +8,8 @@
 
   <h2> ITMD 441, Lab 1</h2>
   <p>Hi, I am Kevin, my major is ITM, I am very excited to learn more of the in and outs of web design! My major is ITM, I have always found computers and coding fascinating! I made some GBA rom hacks with ips patching as a kid and have built a few emulation devices with rasberry Pi's. This class is a another step in the direction of that dream/hobby.</p>
-   <ul>
-     <li> What I have been up to recently besides classes </li>
-     <li> Reading Jim Butcher's take on high fantasy, The Codex Alera series starting with The Furies of Calderon, He created the series on a bet to make two random 'bad' book ideas into a dencent series. The ideas were "Pokemon and lost Roman Legion" I like the first book so far!</li>
-  </ul>
+  
+  
   <h1> What I have been up to recently besides classes? </h1>
  <div class="flex-container">
   <div>Reading Jim Butcher's take on high fantasy, The Codex Alera series starting with The Furies of Calderon, He created the series on a bet to make two random 'bad' book ideas into a dencent series. The ideas were "Pokemon and lost Roman Legion" I like the first book so far!</div>
